@@ -11,7 +11,7 @@ git clone https://github.com/craicoverflow/rhoas-zsh-plugin $ZSH_CUSTOM/plugins/
 To use it add `rhoas` to the plugins array in your zshc file:
 
 ```zshrc
-plugins=(.. rhoas)
+plugins=(... rhoas)
 ```
 
 ## Aliases
